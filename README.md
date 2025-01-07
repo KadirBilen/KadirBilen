@@ -1,4 +1,4 @@
- ![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+ <img src="https://i.pinimg.com/originals/bb/e2/47/bbe2470d1ef6a44772f2015202fbb0ef.gif" alt="Coding" width=2000 height=475 align="center">
 
 <h1 align="center">Hi 👋, I'm Kadir BİLEN</h1>
 <h3 align="center">A passionate react native developer and data scientist from Türkiye</h3>
