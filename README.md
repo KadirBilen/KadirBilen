@@ -1,9 +1,9 @@
  <img src="https://i.pinimg.com/736x/c8/67/3a/c8673ad4c46ade00cf3bd0049db62b16.jpg" alt="Coding" width=2300 height=300 align="center">
 
 <h1 align="center">Hi 👋, I'm Kadir BİLEN</h1>
-<h3 align="center">A passionate react native developer and data scientist from Türkiye</h3>
+<h3 align="center">A passionate software developer and data scientist from Türkiye</h3>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **React Native and AI**
 
 - 💬 Ask me about **React Native and Python**
 
